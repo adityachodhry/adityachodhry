@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
 <h3 align="center">A Passionate Data Science Engineer from India!</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachodhry&label=Profile%20views&color=0e75b6&style=flat" alt="adityachodhry" /> </p>
 
